@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortly.API", "Sortly.API\Sortly.API.csproj", "{32044826-2BD4-434B-B2D7-5860D4BF072C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortly.API.Tests", "Sortly.API.Tests\Sortly.API.Tests.csproj", "{911D2606-7649-451B-9AD8-2E24F84ADF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32044826-2BD4-434B-B2D7-5860D4BF072C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32044826-2BD4-434B-B2D7-5860D4BF072C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32044826-2BD4-434B-B2D7-5860D4BF072C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32044826-2BD4-434B-B2D7-5860D4BF072C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911D2606-7649-451B-9AD8-2E24F84ADF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911D2606-7649-451B-9AD8-2E24F84ADF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911D2606-7649-451B-9AD8-2E24F84ADF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911D2606-7649-451B-9AD8-2E24F84ADF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
